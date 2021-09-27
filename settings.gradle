@@ -1,0 +1,2 @@
+rootProject.name = "SQlite Open Helper"
+include ':app'
